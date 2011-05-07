@@ -60,6 +60,9 @@ Please report any bugs or feature requests to C<bug-webservice-clinicaltrialsdot
 the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=WebService-ClinicalTrialsdotGov>.  I will be notified, and then you'll
 automatically be notified of progress on your bug as I make changes.
 
+=head1 Source code
+
+The source code can be found on github L<https://github.com/spiros/WebService-ClinicalTrialsdotGov>
 
 =head1 SUPPORT
 
@@ -91,7 +94,7 @@ L<http://search.cpan.org/dist/WebService-ClinicalTrialsdotGov/>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2010 Spiros Denaxas, all rights reserved.
+Copyright 2011 Spiros Denaxas, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
