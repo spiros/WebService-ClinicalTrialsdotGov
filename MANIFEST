@@ -1,4 +1,3 @@
-.cvsignore
 Changes
 lib/WebService/ClinicalTrialsdotGov.pm
 lib/WebService/ClinicalTrialsdotGov/Parser.pm
