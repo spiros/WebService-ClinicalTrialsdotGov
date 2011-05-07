@@ -19,7 +19,8 @@ WriteMakefile(
         'LWP::UserAgent'  => 0,
         'URI'             => 0,
         'HTTP::Request'   => 0,
-        'Clone'           => 0        
+        'Clone'           => 0,
+        'LWP::Online'     => 0        
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'WebService-ClinicalTrialsdotGov-*' },

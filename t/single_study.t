@@ -3,6 +3,7 @@ use strict;
 use warnings;
 
 use Test::More tests => 6;
+use LWP::Online ':skip_all';
 use Data::Dumper;
 
 use_ok('WebService::ClinicalTrialsdotGov');
